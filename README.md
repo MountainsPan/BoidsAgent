@@ -6,7 +6,7 @@ e谷动捕小车调试
 魏博源代码地址  https://github.com/Tylerw34/multi-agent-framework 为他多多点星！
 
 ## 本机wsl配置
-在windows上找到 C:\Users\$user_name$ 用记事本编辑.wslconfig配置文件，如果没有就创建一个，写入如下配置：
+在windows上找到 C:\Users\\$user_name$ 用记事本编辑.wslconfig配置文件，如果没有就创建一个，写入如下配置：
 
 [experimental]
 
